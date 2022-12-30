@@ -2,7 +2,7 @@
 _-__--_-_-_-Work in progress!__--___--__--_-_
 
 This repository was created to help preserve native language and Dialects. 
-Everything is open source and can be tweaked and used for use and presrevation of other Dialects.
+Everything is open source and can be tweaked and used for use and presrevation of your own Dialect!
 
 Please message me if regarding improvements, customization, and any other requests.
 
