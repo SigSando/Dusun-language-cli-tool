@@ -13,8 +13,8 @@ All tools are Centered around the Central Dusun language, with roots in Dusun Bu
 Additional help from online resources. 
 
 
-# Dusun-language-learning-tools
-Dusun learning tool: 1-20 number guesser. Random number is given and if the spelling or word for the number does not match the correct dusun numeric, the correct answer is shown.
+# Dusun-number tool
+Dusun number learning tool: 1-20 number guesser. Random number is given and if the spelling or word for the number does not match the correct dusun numeric, the correct answer is shown.
 
 # Dusun-Pronunciation tool
 Pronunciation tool: This tool is rule based off of vowels and Dipthongs in the 
