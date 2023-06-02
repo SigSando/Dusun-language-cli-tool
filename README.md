@@ -1,15 +1,13 @@
 #README#
 
-This repository was created to help preserve native language and Dialects. 
-Everything is open source and can be tweaked and used for use and presrevation of your own Dialect!
+This is a running project,
+some simple scripts to help build repetition and strengthing basic language learning skills.
 
-Please message me if regarding improvements, customization, and any other requests.
+Please message me for requests.
 
-All tools are built with the help of Komoiboros Dusun-Kadazan Dictionary Winonsoi/by: MBDK (Mongulid Boros Dusun Kadazan)  
+A rare resource used to build these tools are: Komoiboros Dusun-Kadazan Dictionary Winonsoi/by: MBDK (Mongulid Boros Dusun Kadazan) 
 
-All tools are Centered around the Central Dusun language, with roots in Dusun Bundu.
-
-Additional help from online resources. 
+Hopefully more books like this can be digitalized.
 
 
 # Dusun-number tool
