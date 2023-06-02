@@ -11,8 +11,8 @@ Hopefully more books like this can be digitalized.
 
 
 # Dusun-number tool
-Dusun number learning tool: 1-20 number guesser. Random number is given and if the spelling or word for the number does not match the correct dusun numeric, the correct answer is shown.
+1-20 number guesser. Random number is shown and user tries to input the right word (ex: "1", iso)
+if the spelling or word for the number does not match t, the correct answer is shown.
 
 # Dusun-Pronunciation tool
-Pronunciation tool: This tool is rule based off of vowels and Dipthongs in the 
-Dusun language, inputting a word will return a *guess* of how to pronounce the Dusun word.
+Takes an inputted dusun/malay word and gives a *rough* guess on how to pronounce the word from vowels and dipthongs found in the dictionary.
