@@ -7,7 +7,7 @@ Please message me for requests.
 
 A rare resource used to build these tools are: Komoiboros Dusun-Kadazan Dictionary Winonsoi/by: MBDK (Mongulid Boros Dusun Kadazan) 
 
-Hopefully more books like this can be digitalized.
+Hopefully i can get a lot out out of different books and resources to preserve for future generations.
 
 
 # Dusun-number tool
