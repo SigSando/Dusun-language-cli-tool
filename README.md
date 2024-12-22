@@ -1,14 +1,9 @@
 #README#
 
 This is a running project,
-some simple scripts to help build repetition and strengthing basic language learning skills.
 
-Please message me for requests.
 
-A rare resource used to build these tools are: Komoiboros Dusun-Kadazan Dictionary Winonsoi/by: MBDK (Mongulid Boros Dusun Kadazan) 
-
-Hopefully i can get a lot out out of different books and resources to preserve for future generations.
-
+A rare resource used to build these tools are: Komoiboros Dusun-Kadazan Dictionary Winonsoi/by: MBDK (Mongulid Boros Dusun Kadazan) .
 
 # Dusun-number tool
 1-20 number guesser. Random number is shown and user tries to input the right word (ex: "1", iso)
